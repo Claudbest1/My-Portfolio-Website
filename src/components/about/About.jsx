@@ -39,7 +39,7 @@ const About = () => {
 
           </div>
             <p>
-              I am a professional graphic designer with over 4 years of experience in Brand Identity design, social media design, Logo, flyer, business card designs etc. I also have more than 6 months experience in Front end web development. 
+              I am a professional graphic designer with over 4 years of experience in Brand Identity design, social media design, Logo, flyer, business card design etc. I also have more than 6 months experience in Front end web development. 
             </p>
             
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>

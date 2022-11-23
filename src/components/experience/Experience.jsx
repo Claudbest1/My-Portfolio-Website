@@ -51,41 +51,41 @@ const Experience = () => {
         {/* ======End of Frontend===== */}
 
         <div className="experience__backend">
-           <h3>Backend Development</h3>
+           <h3>Graphic Design</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Python</h4>
+                <h4>Adobe Photoshop</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Node Js</h4>
-                <small className='text-light'>Beginner</small>
+                <h4>Adobe Illustrator</h4>
+                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>MongoDB</h4>
+                <h4>Adobe Indesign</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>MySQL</h4>
-                <small className='text-light'>Beginner</small>
+                <h4>Corel draw</h4>
+                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Django</h4>
-                <small className='text-light'>Beginner</small>
+                <h4>Figma</h4>
+                <small className='text-light'>Experienced</small>
               </div>
             </article>
           </div>

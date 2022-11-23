@@ -21,7 +21,7 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon"/>
-              <h5>Expeience</h5>
+              <h5>Experience</h5>
               <small>3+ Years Working.</small>
             </article>
             <article className="about__card">
@@ -39,7 +39,7 @@ const About = () => {
 
           </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex placeat ut magni alias deleniti quos porro quisquam quo cumque nam in quod obcaecati optio similique ipsam expedita, accusantium sint quis!
+              I am a professional graphic designer with over 4 years of experience in Brand Identity design, social media design, Logo, flyer, business card designs etc. I also have more than 6 months experience in Front end web development. 
             </p>
             
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>

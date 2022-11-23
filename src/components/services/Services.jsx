@@ -10,29 +10,29 @@ const Services = () => {
       <div className="container service__container">
         <article className="services">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Graphic Design</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Logo</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Flyers</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Social media</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Business card</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Magazine/jotters</p>
             </li>
            
           </ul>
@@ -48,9 +48,17 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Build website</p>
             </li>
             <li>
+              <BiCheck className='service__list-icon' />
+              <p>Maintain website</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Website revamping</p>
+            </li>
+            {/* <li>
               <BiCheck className='service__list-icon' />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
@@ -61,15 +69,7 @@ const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+            </li> */}
           </ul>
         </article>
         {/* End of Web Development */}
@@ -77,30 +77,30 @@ const Services = () => {
         {/* Graphic Design */}
         <article className="services">
           <div className="service__head">
-            <h3>Graphic Design</h3>
+            <h3>UI/UX Design</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>User research</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>User Interface design</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>User Experience design </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Prototyping</p>
             </li>
-            <li>
+            {/* <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+              <p></p>
+            </li> */}
           </ul>
         </article>
         {/* End of Graphic Design */}
